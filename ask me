@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اسأل إياد</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .icon {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin: 15px;
+            padding: 20px;
+            width: 200px;
+            text-align: left;
+            box-sizing: border-box;
+        }
+        .icon h2 {
+            border-bottom: 1px solid #f0f0f0;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .icon a {
+            text-decoration: none;
+            color: #4CAF50;
+            font-size: 16px;
+            display: block;
+            padding: 5px 0;
+        }
+        .icon a:hover {
+            color: #388E3C;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>اسأل إياد</h1>
+    </div>
+    <div class="container">
+        <!-- أيقونة ناجز -->
+        <div class="icon">
+            <h2>ناجز</h2>
+            <a href="https://wa.me/0548645657?text=رفع دعوى">رفع دعوى</a>
+            <a href="https://wa.me/0548645657?text=وكالة">وكالة</a>
+            <a href="https://wa.me/0548645657?text=تنفيذ">تنفيذ</a>
+            <a href="https://wa.me/0548645657?text=وثائق الحالات الاجتماعية">وثائق الحالات الاجتماعية</a>
+            <a href="https://wa.me/0548645657?text=أخرى">أخرى</a>
+        </div>
+        <!-- أيقونة قوى -->
+        <div class="icon">
+            <h2>قوى</h2>
+            <a href="https://wa.me/0548645657?text=نقل خدمات">نقل خدمات</a>
+            <a href="https://wa.me/0548645657?text=إنشاء عقد عمل">إنشاء عقد عمل</a>
+            <a href="https://wa.me/0548645657?text=إصدار كرت عمل">إصدار كرت عمل</a>
+            <a href="https://wa.me/0548645657?text=الموافقة على عقد">الموافقة على عقد</a>
+            <a href="https://wa.me/0548645657?text=أخرى">أخرى</a>
+        </div>
+        <!-- أيقونة حساب المواطن -->
+        <div class="icon">
+            <h2>حساب المواطن</h2>
+            <a href="https://wa.me/0548645657?text=تسجيل جديد">تسجيل جديد</a>
+            <a href="https://wa.me/0548645657?text=إضافة تابع">إضافة تابع</a>
+            <a href="https://wa.me/0548645657?text=حذف تابع">حذف تابع</a>
+            <a href="https://wa.me/0548645657?text=أخرى">أخرى</a>
+        </div>
+        <!-- أيقونة الضمان الاجتماعي المطور -->
+        <div class="icon">
+            <h2>الضمان الاجتماعي المطور</h2>
+            <a href="https://wa.me/0548645657?text=تسجيل جديد">تسجيل جديد</a>
+            <a href="https://wa.me/0548645657?text=إضافة تابع">إضافة تابع</a>
+            <a href="https://wa.me/0548645657?text=حذف تابع">حذف تابع</a>
+            <a href="https://wa.me/0548645657?text=أخرى">أخرى</a>
+        </div>
+        <!-- أيقونة أبشر -->
+        <div class="icon">
+            <h2>أبشر</h2>
+            <a href="https://wa.me/0548645657?text=خدمات الأحوال">خدمات الأحوال</a>
+            <a href="https://wa.me/0548645657?text=خدمات المرور">خدمات المرور</a>
+            <a href="https://wa.me/0548645657?text=خدمات المركبات">خدمات المركبات</a>
+            <a href="https://wa.me/0548645657?text=خدمات العمالة">خدمات العمالة</a>
+            <a href="https://wa.me/0548645657?text=خدمات الزيارة">خدمات الزيارة</a>
+            <a href="https://wa.me/0548645657?text=خدمات المرور">خدمات المرور</a>
+        </div>
+        <!-- أيقونة مكتب العمل -->
+        <div class="icon">
+            <h2>مكتب العمل</h2>
+            <a href="https://wa.me/0548645657?text=رفع دعوى">رفع دعوى</a>
+            <a href="https://wa.me/0548645657?text=إثبات كيدية بلاغ هروب">إثبات كيدية بلاغ هروب</a>
+            <a href="https://wa.me/0548645657?text=أخرى">أخرى</a>
+        </div>
+    </div>
+</body>
+</html>
